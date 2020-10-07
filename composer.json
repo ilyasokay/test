@@ -1,0 +1,12 @@
+{
+    "name": "parent/test",
+    "type": "project",
+    "description": "Parent Test",
+    "keywords": [
+        "framework"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.4"
+    }
+}
